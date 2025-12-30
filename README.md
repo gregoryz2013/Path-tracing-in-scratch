@@ -1,3 +1,5 @@
+<img width="1879" height="1420" alt="ptxx (2)" src="https://github.com/user-attachments/assets/b720b9b6-16f0-4525-b2e7-f835def07ec3" />
+
 # Ray Casting, Ray Tracing, and Path Tracing in Scratch
 
 ## Overview
