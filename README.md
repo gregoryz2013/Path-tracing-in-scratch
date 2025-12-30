@@ -104,8 +104,8 @@ The tone mapping is intentionally simple and optimized for clarity rather than p
 
 ## Notes and Limitations
 
-* Performance is limited by Scratch’s execution model
-* Rendering is not real-time
+* Performance is limited by Scratch’s execution model, so you can only run it in Turbowarp
+* Rendering is not real-time, only in low resolution
 * Accuracy is secondary to clarity and educational value
 * Designed for experimentation and learning
 
